@@ -1,7 +1,23 @@
-
-background-color: #EAFDF8
-
+body {
+  background-color: #EAFDF8;
+  text-align: center;
+  font-style: strong;
+  font-family: sans-serif;
+  color: #7C616C;
+}
 
 .header {
-  background-color: #7C616C
+  text-align: center;
+  background-color: #7C616C;
+
+}
+
+.info {
+  background-color: #D1B1CB;
+  font-family: sans-serif;
+  color: #7C616C;
+}
+
+img {
+  border: 5px solid #7C616C;
 }
